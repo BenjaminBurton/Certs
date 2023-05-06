@@ -1,2 +1,2 @@
 # Qualys
-Vulnerability Management 
+Vulnerability Management documentation
