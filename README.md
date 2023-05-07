@@ -1,2 +1,2 @@
 # Certifications Earned
-Vulnerability Management documentation
+Vulnerability Management 
