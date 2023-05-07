@@ -1,2 +1,2 @@
-# Qualys
+# Certifications Earned
 Vulnerability Management documentation
