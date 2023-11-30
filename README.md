@@ -1,7 +1,4 @@
 # Certifications Earned
 
-:::[!NOTE]
-
-Vulnerability Management 
-
-:::
+>[!NOTE]
+>Vulnerability Management 
