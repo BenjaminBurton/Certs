@@ -14,3 +14,9 @@
 
 >[!NOTE]
 >Palo Alto Security Operations Fundamentals
+
+>[!NOTE]
+>Prisma Cloud Onboarding && Initial Setup
+
+>[!NOTE]
+>Prisma Cloud Monitoring Public Clouds
