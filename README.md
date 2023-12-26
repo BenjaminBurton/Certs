@@ -9,10 +9,10 @@
 >[!NOTE]
 >Python Basics
 
->[!NOTE]
+>[!IMPORTANT]
 >Google Cybersecurity Foundations
 
->[!NOTE]
+>[!IMPORTANT]
 >Google Manage Security Risks
 
 >[!NOTE]
