@@ -10,6 +10,12 @@
 >Python Basics
 
 >[!NOTE]
+>Google Cybersecurity Foundations
+
+>[!NOTE]
+>Google Manage Security Risks
+
+>[!NOTE]
 >Qualys Vulnerability Management
 
 >[!NOTE]
