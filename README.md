@@ -1,6 +1,15 @@
 # Certifications Earned
 
 >[!NOTE]
+>BASH Scripting Basics
+
+>[!NOTE]
+>Powershell Basics
+
+>[!NOTE]
+>Python Basics
+
+>[!NOTE]
 >Qualys Vulnerability Management
 
 >[!NOTE]
