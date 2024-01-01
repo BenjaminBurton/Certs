@@ -9,6 +9,12 @@
 >[!NOTE]
 >Python Basics
 
+>[!NOTE]
+>IP Addressing Basics
+
+>[!NOTE]
+>Linux File System Basics
+
 >[!IMPORTANT]
 >Google Cybersecurity Foundations
 
