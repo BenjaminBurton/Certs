@@ -15,6 +15,9 @@
 >[!NOTE]
 >Linux File System Basics
 
+>[!NOTE]
+>Vulnerability Scanner Basics
+
 >[!IMPORTANT]
 >Google Cybersecurity Foundations
 
