@@ -19,6 +19,9 @@
 >Vulnerability Scanner Basics
 
 >[!IMPORTANT]
+>Microsoft Computers and Operating Systems and Security
+
+>[!IMPORTANT]
 >Google Cybersecurity Foundations
 
 >[!IMPORTANT]
