@@ -18,6 +18,9 @@
 >[!NOTE]
 >Vulnerability Scanner Basics
 
+>[!NOTE]
+>Mastercard Cybersecurity Design && Interpret Phishing Email
+
 >[!IMPORTANT]
 >Microsoft Computers and Operating Systems and Security
 
